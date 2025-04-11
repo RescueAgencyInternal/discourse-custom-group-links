@@ -1,0 +1,25 @@
+en:
+  admin_js:
+    admin:
+      groups:
+        facebook_url:
+          label: "Facebook URL"
+          placeholder: "Enter Facebook URL (e.g., https://www.facebook.com/yourgroup)"
+        linkedin_url:
+          label: "LinkedIn URL"
+          placeholder: "Enter LinkedIn URL (e.g., https://www.linkedin.com/company/yourgroup)"
+        twitter_url:
+          label: "Twitter URL"
+          placeholder: "Enter Twitter URL (e.g., https://twitter.com/yourgroup)"
+        instagram_url:
+          label: "Instagram URL"
+          placeholder: "Enter Instagram URL (e.g., https://www.instagram.com/yourgroup)"
+        youtube_url:
+          label: "YouTube URL"
+          placeholder: "Enter YouTube URL (e.g., https://www.youtube.com/channel/yourgroup)"
+        website_url:
+          label: "Website URL"
+          placeholder: "Enter your group's website URL"
+        contact_email:
+          label: "Contact Email"
+          placeholder: "Enter your group's primary email address"
