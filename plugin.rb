@@ -1,8 +1,8 @@
 # name: discourse-custom-group-links
 # about: Adds social media links to Discourse Groups
 # version: 0.2
-# authors: Andrew De Forest
-# url: tbd
+# authors: Rescue Agency
+# url: https://github.com/RescueAgencyInternal/discourse-custom-group-links
 
 after_initialize do
   # Allow these custom fields to be edited via the admin UI:
